@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#13233f"/><stop offset="1" stop-color="#1c3154"/></linearGradient>
+ <linearGradient id="l" x1="0" x2="1"><stop stop-color="#8fb7ff"/><stop offset="1" stop-color="#d8e5ff"/></linearGradient>
+</defs>
+<rect width="1200" height="700" rx="28" fill="#0b1220"/>
+<rect x="35" y="35" width="1130" height="630" rx="22" fill="url(#g)" stroke="#314665"/>
+<text x="75" y="105" fill="#fff" font-family="Arial" font-size="30" font-weight="700">SALES DASHBOARD</text>
+<text x="75" y="138" fill="#a9b8cf" font-family="Arial" font-size="16">Power BI report file • project evidence</text>
+<g fill="#142743" stroke="#3a5275">
+<rect x="75" y="180" width="235" height="105" rx="16"/><rect x="330" y="180" width="235" height="105" rx="16"/><rect x="585" y="180" width="235" height="105" rx="16"/><rect x="840" y="180" width="235" height="105" rx="16"/>
+</g>
+<g fill="#dce8fb" font-family="Arial">
+<text x="100" y="218" font-size="14">REPORT</text><text x="100" y="256" font-size="27" font-weight="700">PBIX</text>
+<text x="355" y="218" font-size="14">FORMAT</text><text x="355" y="256" font-size="27" font-weight="700">POWER BI</text>
+<text x="610" y="218" font-size="14">LAYOUT</text><text x="610" y="256" font-size="27" font-weight="700">16:9</text>
+<text x="865" y="218" font-size="14">STATUS</text><text x="865" y="256" font-size="27" font-weight="700">READY</text>
+</g>
+<rect x="75" y="325" width="1000" height="275" rx="18" fill="#0d192b" stroke="#304966"/>
+<path d="M115 540 C220 490 255 505 335 430 S485 470 555 395 S720 420 795 365 S940 400 1035 345" fill="none" stroke="url(#l)" stroke-width="6"/>
+<g fill="#a9b8cf" font-family="Arial" font-size="13">
+<text x="110" y="575">Project preview</text><text x="930" y="575">Interactive report</text>
+</g>
+<text x="75" y="635" fill="#71839e" font-family="Arial" font-size="12">Preview intentionally represents the supplied report file, not a fabricated screenshot.</text>
+</svg>
